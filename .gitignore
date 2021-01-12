@@ -83,3 +83,32 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.cxx
+/workspace.xml
+
+## Specific files to ignore!!!
+.idea/androidDexCompiler.xml
+.idea/codeStyles/Project.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/kotlinc.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+gradle.properties
+gradle/wrapper/gradle-wrapper.jar
+#gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+# settings.gradle
